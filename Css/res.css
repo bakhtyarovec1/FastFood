@@ -1,0 +1,57 @@
+@media (min-width: 1281px ){
+    /* PC */
+   
+}
+@media (min-width: 1025px ) and (max-width:1280px){ 
+     /* laptop */
+  
+}
+@media (min-width: 768px ) and (max-width: 1024px ) {
+   /* tablet */
+   
+  
+}
+@media (min-width: 481px ) and ( max-width:767px) {
+    /* phone big */
+    
+  
+}
+@media (min-width: 320px ) and (max-width:480px) {
+    /* phone */
+    
+    .left h1 {
+        font-size: 30px;
+    }
+
+    .lorem {
+        font-size: 12px;
+    }
+
+    .btn1 {
+        padding: 5px 25px;
+        border-radius: 20px;
+        font-size: 13px;
+        border: none;
+    }
+
+    .watch {
+        font-size: 13px;
+        align-items: center;
+    }
+
+    .btns i{
+        font-size: 35px;
+    }
+    
+    .lr {
+        flex-direction: column;
+    }
+
+    .img {
+        width: 100%;
+    }
+
+    .left{
+        width: 100%;
+    }
+}
